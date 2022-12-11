@@ -1,4 +1,4 @@
 - Hi, I’m Arthur Vos
-- urrently studying Software Development at Hoornbeeck college
+- Currently studying Software Development at Hoornbeeck college
 
 
